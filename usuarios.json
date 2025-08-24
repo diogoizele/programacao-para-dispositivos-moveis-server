@@ -2,5 +2,9 @@
   {
     "email": "diogo@mail.com",
     "senha": "$2b$10$lYIaVRjADM8EgFdPp6Ys0etqGjFLpKr4tUch6lqfFsvFhs9pZWrdi"
+  },
+  {
+    "email": "teste@mail.com",
+    "senha": "$2b$10$0UIqhoowIq9gXR5z0HgiDufDJL8fLKH2mzOS2tSJRQORv3AQvPxNS"
   }
 ]
